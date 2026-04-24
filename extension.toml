@@ -1,0 +1,7 @@
+id = "pinebook"
+name = "PineBook"
+version = "0.0.1"
+schema_version = 1
+authors = ["Alex Blake (arraywaves.dev)"]
+description = "Soft, warm, cozy"
+repository = "https://github.com/arraywaves/pinebook-theme-zed"
